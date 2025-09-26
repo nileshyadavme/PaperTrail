@@ -2,7 +2,6 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 PaperTrail is a powerful tool designed to automate the process of resume screening. It leverages Natural Language Processing (NLP) to parse, analyze, and score resumes based on job descriptions, helping recruiters and hiring managers to quickly identify the most qualified candidates.
 
