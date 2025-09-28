@@ -10,7 +10,7 @@ add_cors(app)
 
 @app.get("/")
 async def root():
-    return {"message": "Hello World from FastAPI!"}
+    return {"message": "Hello World from API!"}
 
 @app.get("/user")
 async def get_user():

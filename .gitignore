@@ -10,8 +10,8 @@
 
 # Virtual Environment
 # This is the folder containing all your Python packages. It can be huge.
-/backend/venv/
-venv/
+/backend/ra/
+ra/
 
 # Python cache and compiled files
 __pycache__/
